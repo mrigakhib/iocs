@@ -3,3 +3,8 @@ bb914889d5edc6b56c666d2e44e1a437
 1adc0bd494cd42578ac8c8e726d5ad92
 31c341ad31224cc7d38a5c4e80ccb727
 f931773a226809669cad91410a57267f
+WarHawk_v1: 8f9cf5c828cb02c83f8df52ccae03e2a
+WarHawk_v1.1: 5cff6896e0505e8d6d98bff35d10c43a
+Snitch.exe CS Loader: ec33c5e1773b510e323bea8f70dcddb0
+OneDrive.exe CS Beacon: d0acccab52778b77c96346194e38b244
+DDRA.exe CS Beacon: 40f86b56ab79e94893e4c6f1a0a099a1
