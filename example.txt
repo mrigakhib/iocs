@@ -6,4 +6,3 @@ f931773a226809669cad91410a57267f
 WarHawk_v1: 8f9cf5c828cb02c83f8df52ccae03e2a
 WarHawk_v1.1: 5cff6896e0505e8d6d98bff35d10c43a
 Snitch.exe CS Loader: ec33c5e1773b510e323bea8f70dcddb0
-OneDrive.exe CS Beacon: d0acccab52778b77c96346194e38b244
